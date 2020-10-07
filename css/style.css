@@ -990,7 +990,7 @@ template {
   content: '';
   width: 15px;
   height: 15px;
-  background-image: url("../../img/icons/checkbox-yellow.svg");
+  background-image: url("../img/icons/checkbox-yellow.svg");
   background-repeat: no-repeat;
   background-position: 0 3px;
 }

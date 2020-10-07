@@ -1055,7 +1055,7 @@ template {
   height: 14px;
   border-radius: 50%;
   background: #FFF;
-  border: 6px solid red;
+  border: 6px solid #FFC93C;
   cursor: pointer;
   z-index: 200;
 }
